@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@microsoft/sp-build-web": "^1.15.0"
+    "@microsoft/sp-build-web": "^1.20.1"
   }
 }
